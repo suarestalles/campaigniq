@@ -96,7 +96,7 @@ Metrics with a zero denominator are handled as unavailable rather than dividing 
 Replace the placeholder with your actual GitHub repository URL.
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/suarestalles/campaigniq.git
 cd campaigniq
 ```
 
